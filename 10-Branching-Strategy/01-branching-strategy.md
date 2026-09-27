@@ -2,8 +2,6 @@
 
 > "A bad branching strategy is like trying to build a skyscraper on a swamp."
 
-_Source: Branching Strategy.pdf :contentReference[oaicite:0]{index=0}_
-
 # Part 1: Introduction – Why Branching Strategy Matters in DevOps
 
 ## What Is a Branching Strategy?
